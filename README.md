@@ -37,42 +37,10 @@ Comunicação Segura e Operações Restritas
 - **Proxy**: 🟢 Oculto
 - **VPN**: 🟢 Ativa e segura
 
-                    🌐 Internet
-                        |
-                    🔐 VPN
-                        |
-                        |
-        ┌────────────────┴─────────────────┐
-        |                                  |
-        |                                  |
-     🔵 Firewall                       🔵 Proxy
-        |                                  |
-        |                                  |
-    ┌───┴───┐                          ┌───┴───┐
-    |       |                          |       |
- 🔴 Rede Interna                    🔴 Rede Externa
- (Intranet)                          (DMZ)
-    |                                     |
-    |                                     |
-┌───┴───┐                            ┌────┴────┐
-|       |                            |         |
-|  💻   Servidores                   |  💻 Servidor Web  
-|       (CRM)                        |     Público
-|       |                            |         |
-└───┬───┘                            └────┬────┘
-    |                                     |
-    |                                     |
-    |                                🔴 Vulnerabilidade
- ┌──┴───┐                           (Exposição HTTP)
- |       |
- |   🔴 Vulnerabilidade
- |  (Porta exposta)
- |       |
- └───┬───┘
-     |
-     |
-     🔴 Usuário Interno Comprometido
-     (Phishing Bem-Sucedido)
+<p align="center">
+  <img src="https://example.com/pasta-confidencial.gif" width="500" alt="Pasta Confidencial">
+</p>
+                    
 
 ### 🎯 Dossier de Operações Concluídas
 
