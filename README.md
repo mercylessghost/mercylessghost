@@ -1,7 +1,7 @@
-<h1 align="center">☠️ Mercylessghost | ARQUIVO DE OPERAÇÕES ☠️</h1>
+<h1 align="center">☠️ Fantasma sem Misericórdia | ARQUIVO DE OPERAÇÕES ☠️</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="800" alt="Hacker Animation](https://media.giphy.com/media/3o7aD4qGyGtiNa3mG4/gi)">
+  <img src="https://media.giphy.com/media/3o7aD4qGyGtiNa3mG4/giphy.gif" width="800" alt="Animação Hacker">
 </p>
 
 ---
