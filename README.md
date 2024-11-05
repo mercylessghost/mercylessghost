@@ -147,7 +147,7 @@ Comunicação Segura e Operações Restritas
   Ação: Vigilância em dark web para identificar vazamentos
   Status: ✔️ Concluído - Dados Corporativos Seguros
 
-<p align="center"> <img src="https://media.giphy.com/media/2o0FIjBCXIXLy/giphy.gif" width="500" alt="Barras de Progresso"> </p>
+<p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU5ZnhwODd1MjhndHRkanIyN2J6cjZxaGtmemVnOXZrZDY1bTdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBELA6Mb1TeeOc/giphy.gif"> </p>
 
 
 
