@@ -1,20 +1,16 @@
-<h1 align="center">👁️ Mercylessghost | Arquivo de Operações Anônimas 👁️</h1>
+<h1 align="center">☠️ Mercylessghost | ARQUIVO DE OPERAÇÕES ☠️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4qGyGtiNa3mG4/giphy.gif" width="800" alt="Anonymous Hacker Animation">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="800" alt="Hacker Animation">
 </p>
 
 ---
 
-```plaintext
-███╗   ███╗███████╗██████╗  ██████╗ ██████╗ ███████╗██╗     ███████╗███████╗
-████╗ ████║██╔════╝██╔══██╗██╔═══██╗██╔══██╗██╔════╝██║     ██╔════╝██╔════╝
-██╔████╔██║█████╗  ██████╔╝██║   ██║██║  ██║█████╗  ██║     █████╗  ███████╗
-██║╚██╔╝██║██╔══╝  ██╔══██╗██║   ██║██║  ██║██╔══╝  ██║     ██╔══╝  ╚════██║
-██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝██████╔╝███████╗███████╗███████╗███████║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚══════╝ 
-
-
+```diff
++ ⚠️ ACESSO RESTRITO ⚠️
+- Operações em andamento... AUTORIZAÇÃO MÁXIMA NECESSÁRIA
++ Carregando... ██████▒▒▒▒▒▒▒▒▒▒▒▒
+- Identidade Confirmada: Mercylessghost
 
 ```diff
 + WARNING! WARNING! WARNING!
