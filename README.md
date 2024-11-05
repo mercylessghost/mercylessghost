@@ -1,11 +1,19 @@
-<
-+ SISTEMA DE OPERAÇÕES MERCYLESS ATIVADO...
-+ ACESSO RESTRITO - AUTORIZAÇÃO ANÔNIMA NECESSÁRIA
-+ Conexão Estabelecida: Proxychain ████████▒▒▒▒▒▒▒▒▒▒
-+ Iniciando Varredura de Rede...
-+ Sistema de Operações Cibernéticas Ativado...
-+ Scanning Networks... ██████▒▒▒▒▒▒▒▒▒▒▒▒
-+ Alvo Detectado: Protocolos Inseguros
+<h1 align="center">👁️ Mercylessghost | Arquivo de Operações Anônimas 👁️</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4qGyGtiNa3mG4/giphy.gif" width="800" alt="Anonymous Hacker Animation">
+</p>
+
+---
+
+```plaintext
+███╗   ███╗███████╗██████╗  ██████╗ ██████╗ ███████╗██╗     ███████╗███████╗
+████╗ ████║██╔════╝██╔══██╗██╔═══██╗██╔══██╗██╔════╝██║     ██╔════╝██╔════╝
+██╔████╔██║█████╗  ██████╔╝██║   ██║██║  ██║█████╗  ██║     █████╗  ███████╗
+██║╚██╔╝██║██╔══╝  ██╔══██╗██║   ██║██║  ██║██╔══╝  ██║     ██╔══╝  ╚════██║
+██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝██████╔╝███████╗███████╗███████╗███████║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚══════╝ 
+
 
 
 ```diff
