@@ -44,9 +44,9 @@ Comunicação Segura e Operações Restritas
 </p>
 
 <pre align="center">
-                             🌐 Internet
+                           🌐 Internet
                                  |
-                              🔐 VPN
+                             🔐 VPN
                                  |
         ┌────────────────────────┴────────────────────────┐
         |                                                 |
@@ -57,22 +57,22 @@ Comunicação Segura e Operações Restritas
    |         |                                      |           |
 🔴 Rede Interna                              🔴 Rede Externa
 (Intranet)                                   (DMZ - Zona Desmilitarizada)
-   |         |                                      |           |
-   |         |                                      |           |
-   |         |                                      |           |
-┌──┴──┐   ┌──┴──┐                                ┌──┴──┐     ┌──┴──┐
-| 💻  |   | 💻  |                                | 💻  |     | 💻  |
-| CRM |   | ERP |                                | Web |     | Banco|
-|     |   |     |                                |     |     | de Dados
-└─────┘   └─────┘                                └─────┘     └─────┘
-   |         |                                      |           |
-   |         |                                      |           |
-   🔴 Vulnerabilidade                       🔴 Vulnerabilidade
-      (Porta Exposta)                        (Exposição HTTP)
+   |                                                 |
+   |                                                 |
+┌──┴──┐                                           ┌──┴──┐
+| 💻  |                                           | 💻  |
+| CRM |                                           | Banco|
+|     |                                           | de Dados
+└─────┘                                           └─────┘
+   |                                                 |
+   |                                                 |
+🔴 Vulnerabilidade                               🔴 Vulnerabilidade
+   (Porta Exposta)                                 (Exposição HTTP)
    |                                                 |
    |                                                 |
 🔴 Acesso do Usuário Interno                 🔴 Acesso Público Comprometido
    (Phishing Bem-Sucedido)                  (Exploração HTTP)
+
 </pre>
 
 ---                    
