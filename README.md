@@ -37,39 +37,45 @@ Comunicação Segura e Operações Restritas
 - **Proxy**: 🟢 Oculto
 - **VPN**: 🟢 Ativa e segura
 
-                      <h2 align="center">Diagrama de Rede</h2>
+<h1 align="center">⚔️ Diagrama de Arquitetura de Ataque ⚔️</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4qGyGtiNa3mG4/giphy.gif" width="800" alt="Animação Hacker">
+</p>
 
 <pre align="center">
-                     🌐 Internet
-                          |
-                        🔐 VPN
-                          |
-                          |
-            ┌─────────────┴──────────────┐
-            |                            |
-            |                            |
-        🔵 Firewall                  🔵 Proxy
-            |                            |
-            |                            |
-       ┌────┴────┐                  ┌────┴────┐
-       |         |                  |          |
-   🔴 Rede Interna              🔴 Rede Externa
-     (Intranet)                     (DMZ)
-            |                            |
-            |                            |
-      ┌─────┴─────┐                  ┌────┴────┐
-      |           |                  |          |
-  💻 Servidor CRM                💻 Servidor Web
-       (Interno)                   (Público)
-            |                            |
-            |                            |
-      🔴 Vulnerabilidade              🔴 Vulnerabilidade
-      (Porta Exposta)                (Exposição HTTP)
-            |
-            |
-     🔴 Usuário Interno Comprometido
-     (Phishing Bem-Sucedido)
+                             🌐 Internet
+                                 |
+                              🔐 VPN
+                                 |
+        ┌────────────────────────┴────────────────────────┐
+        |                                                 |
+    🔵 Firewall                                        🔵 Proxy
+        |                                                 |
+        |                                                 |
+   ┌────┴────┐                                      ┌─────┴─────┐
+   |         |                                      |           |
+🔴 Rede Interna                              🔴 Rede Externa
+(Intranet)                                   (DMZ - Zona Desmilitarizada)
+   |         |                                      |           |
+   |         |                                      |           |
+   |         |                                      |           |
+┌──┴──┐   ┌──┴──┐                                ┌──┴──┐     ┌──┴──┐
+| 💻  |   | 💻  |                                | 💻  |     | 💻  |
+| CRM |   | ERP |                                | Web |     | Banco|
+|     |   |     |                                |     |     | de Dados
+└─────┘   └─────┘                                └─────┘     └─────┘
+   |         |                                      |           |
+   |         |                                      |           |
+   🔴 Vulnerabilidade                       🔴 Vulnerabilidade
+      (Porta Exposta)                        (Exposição HTTP)
+   |                                                 |
+   |                                                 |
+🔴 Acesso do Usuário Interno                 🔴 Acesso Público Comprometido
+   (Phishing Bem-Sucedido)                  (Exploração HTTP)
 </pre>
+
+---                    
 
 
 ### 🎯 Dossier de Operações Concluídas
