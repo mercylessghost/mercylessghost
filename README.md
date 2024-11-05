@@ -37,21 +37,36 @@ Comunicação Segura e Operações Restritas
 - **Proxy**: 🟢 Oculto
 - **VPN**: 🟢 Ativa e segura
 
-# Script de coleta de informações básicas
-import socket
-
-def get_host_info(target):
-    try:
-        ip = socket.gethostbyname(target)
-        print(f"IP do alvo: {ip}")
-        return ip
-    except socket.gaierror:
-        print("Erro ao resolver o hostname.")
-        return None
-
-get_host_info("exemplo.com")
-
-                    
+                      🌐 Internet
+                          |
+                        🔐 VPN
+                          |
+                          |
+            ┌─────────────┴──────────────┐
+            |                            |
+            |                            |
+        🔵 Firewall                  🔵 Proxy
+            |                            |
+            |                            |
+       ┌────┴────┐                  ┌────┴────┐
+       |         |                  |          |
+   🔴 Rede Interna              🔴 Rede Externa
+     (Intranet)                     (DMZ)
+            |                            |
+            |                            |
+      ┌─────┴─────┐                  ┌────┴────┐
+      |           |                  |          |
+  💻 Servidor CRM                💻 Servidor Web
+       (Interno)                   (Público)
+            |                            |
+            |                            |
+      🔴 Vulnerabilidade              🔴 Vulnerabilidade
+      (Porta Exposta)                (Exposição HTTP)
+            |
+            |
+     🔴 Usuário Interno Comprometido
+     (Phishing Bem-Sucedido)
+                  
 
 ### 🎯 Dossier de Operações Concluídas
 
