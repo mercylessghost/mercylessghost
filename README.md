@@ -1,7 +1,7 @@
 <h1 align="center">☠️ Fantasma sem Misericórdia | ARQUIVO DE OPERAÇÕES ☠️</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ1d3Nvc3NyeWY0ZWhxem1yMjlma250Mm40Y3Zzb2Znc3Nkd3UxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2p1ng5ek9qIR8wzPn5/giphy-downsized-large.gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21oNnM0NzloNDllMDI4cDExMmllcW9jZDluZm1kZDR0YzlhYXU1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif">
 </p>
 
 ---
