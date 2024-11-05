@@ -55,7 +55,3 @@ Python & Go	Programação para scripts avançados	🚨 Em Desenvolvimento
 
 Let the Hunt Begin... 🗡️
 
-
----
-
-Esse README intensifica o tom "sombroso" e deixa claro que o conteúdo é poderoso e sigiloso. Ajuste os links e imagens conforme necessário para um toque final!
