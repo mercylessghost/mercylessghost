@@ -30,4 +30,11 @@ Ferramentas são mais que simples recursos - são **extensões de poder**. Cada 
 🛠️ Conexões Clandestinas
 Comunicação Segura e Operações Restritas
 
+### 📡 Status do Sistema
+
+- **Status de Rede**: 🔴 Alvo em monitoramento ativo
+- **Firewall**: 🔐 Proteção máxima ativada
+- **Proxy**: 🟢 Oculto
+- **VPN**: 🟢 Ativa e segura
+
 <p align="center"> <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Conexão Secreta-blue?style=flat&logo=linkedin"></a> <a href="mailto:mercylessgh0st@proton.me"><img src="https://img.shields.io/badge/Email-mercylessgh0st%40proton.me-lightgrey?style=flat&logo=protonmail"></a> <a href="https://github.com/Mercylessghost"><img src="https://img.shields.io/badge/GitHub-Mercylessghost-black?style=flat&logo=github"></a> </p>
