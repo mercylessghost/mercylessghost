@@ -37,14 +37,12 @@ Comunicação Segura e Operações Restritas
 - **Proxy**: 🟢 Oculto
 - **VPN**: 🟢 Ativa e segura
 
-<h1 align="center">⚔️ Diagrama de Arquitetura de Ataque ⚔️</h1>
+<h1 align="center">⚔️ Dossier de Operações Concluídase ⚔️</h1>
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NxODg3ZjVpbzNndnBpYWpzb3pnNWRodWEzZ2gzZ2FyNzRxOTZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8rv9NSbHaEe9Ak/giphy.gif" width="800" alt="Animação Hacker">
 </p>
 
-
-### 🎯 Dossier de Operações Concluídas
 
 + 🛡️ Operação Reconquista
   ----------------------------------------------
