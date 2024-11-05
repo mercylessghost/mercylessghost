@@ -1,7 +1,7 @@
 <h1 align="center">☠️ Fantasma sem Misericórdia | ARQUIVO DE OPERAÇÕES ☠️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4qGyGtiNa3mG4/giphy.gif" width="800" alt="Animação Hacker">
+  <img src="https://giphy.com/gifs/art-glitch-3d-2p1ng5ek9qIR8wzPn5">
 </p>
 
 ---
