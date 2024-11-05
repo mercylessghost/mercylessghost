@@ -37,7 +37,10 @@ Comunicação Segura e Operações Restritas
 - **Proxy**: 🟢 Oculto
 - **VPN**: 🟢 Ativa e segura
 
-                      🌐 Internet
+                      <h2 align="center">Diagrama de Rede</h2>
+
+<pre align="center">
+                     🌐 Internet
                           |
                         🔐 VPN
                           |
@@ -66,7 +69,8 @@ Comunicação Segura e Operações Restritas
             |
      🔴 Usuário Interno Comprometido
      (Phishing Bem-Sucedido)
-                  
+</pre>
+
 
 ### 🎯 Dossier de Operações Concluídas
 
