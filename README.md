@@ -43,40 +43,6 @@ Comunicação Segura e Operações Restritas
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NxODg3ZjVpbzNndnBpYWpzb3pnNWRodWEzZ2gzZ2FyNzRxOTZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xULW8rv9NSbHaEe9Ak/giphy.gif" width="800" alt="Animação Hacker">
 </p>
 
-<pre align="center">
-                           🌐 Internet
-                                 |
-                             🔐 VPN
-                                 |
-        ┌────────────────────────┴────────────────────────┐
-        |                                                 |
-    🔵 Firewall                                        🔵 Proxy
-        |                                                 |
-        |                                                 |
-   ┌────┴────┐                                      ┌─────┴─────┐
-   |         |                                      |           |
-🔴 Rede Interna                              🔴 Rede Externa
-(Intranet)                                   (DMZ - Zona Desmilitarizada)
-   |                                                 |
-   |                                                 |
-┌──┴──┐                                           ┌──┴──┐
-| 💻  |                                           | 💻  |
-| CRM |                                           | Banco|
-|     |                                           | de Dados
-└─────┘                                           └─────┘
-   |                                                 |
-   |                                                 |
-🔴 Vulnerabilidade                               🔴 Vulnerabilidade
-   (Porta Exposta)                                 (Exposição HTTP)
-   |                                                 |
-   |                                                 |
-🔴 Acesso do Usuário Interno                 🔴 Acesso Público Comprometido
-   (Phishing Bem-Sucedido)                  (Exploração HTTP)
-
-</pre>
-
----                    
-
 
 ### 🎯 Dossier de Operações Concluídas
 
