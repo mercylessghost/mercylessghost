@@ -37,9 +37,20 @@ Comunicação Segura e Operações Restritas
 - **Proxy**: 🟢 Oculto
 - **VPN**: 🟢 Ativa e segura
 
-<p align="center">
-  <img src="https://example.com/pasta-confidencial.gif" width="500" alt="Pasta Confidencial">
-</p>
+# Script de coleta de informações básicas
+import socket
+
+def get_host_info(target):
+    try:
+        ip = socket.gethostbyname(target)
+        print(f"IP do alvo: {ip}")
+        return ip
+    except socket.gaierror:
+        print("Erro ao resolver o hostname.")
+        return None
+
+get_host_info("exemplo.com")
+
                     
 
 ### 🎯 Dossier de Operações Concluídas
