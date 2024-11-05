@@ -1,12 +1,8 @@
-<h1 align="center">☠️ Mercylessghost | Operações Cibernéticas ☠️</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="750" alt="Hacker Animation">
-</p>
-
----
-
-```diff
+<
++ SISTEMA DE OPERAÇÕES MERCYLESS ATIVADO...
++ ACESSO RESTRITO - AUTORIZAÇÃO ANÔNIMA NECESSÁRIA
++ Conexão Estabelecida: Proxychain ████████▒▒▒▒▒▒▒▒▒▒
++ Iniciando Varredura de Rede...
 + Sistema de Operações Cibernéticas Ativado...
 + Scanning Networks... ██████▒▒▒▒▒▒▒▒▒▒▒▒
 + Alvo Detectado: Protocolos Inseguros
