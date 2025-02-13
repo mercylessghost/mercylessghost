@@ -51,10 +51,4 @@ Cada ferramenta é escolhida com **precisão cirúrgica**.
 ### 🔗 COMUNICAÇÃO SIGILOSA
 
 📧 **Contato Ultra-Secreto:** [mercylessgh0st@proton.me](mailto:mercylessgh0st@proton.me)
-🌐 **[LinkedIn - Conexão Secreta](https://linkedin.com/in/seu-linkedin)**
-📺 **[CyberZ Ethical Academy](https://www.youtube.com/channel/UCXXXXXXX)**
-🕶️ **[Hack The Box](https://www.hackthebox.com/) (Nickname: MercylessGhost)**
 
----
-
-> <strong>"O conhecimento é a arma mais letal. A ignorância é a maior vulnerabilidade."</strong> - MercylessGhost
