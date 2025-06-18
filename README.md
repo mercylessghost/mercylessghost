@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Initializing+Red+Team+Ops...;Bypassing+WAF...;Injecting+Payload...;Access+Granted+%F0%9F%94%92" />
 </p>
 
-### 🧰 Ferramentas & Tecnologias que domino
+### ☠️ Ferramentas & Tecnologias que domino ☠️
 
 ####  Pentest & Exploração
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux)
