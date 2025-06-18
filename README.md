@@ -7,9 +7,8 @@
 <h1 align="center">👾 mercylessghost</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48tA3s0P4q0VW/giphy.gif" width="500" alt="Dark Terminal" />
+  <img src="https://media.giphy.com/media/LPn7c5wCPdUty/giphy.gif" width="400" alt="Digital Eye" />
 </p>
-
 
 ---
 <p align="center">
