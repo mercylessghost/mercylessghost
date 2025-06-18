@@ -7,8 +7,9 @@
 <h1 align="center">👾 mercylessghost</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LPn7c5wCPdUty/giphy.gif" width="400" alt="Digital Eye" />
+  <img src="https://i.imgur.com/ZySUy1U.gif" width="500" alt="Cyber Glitch Skull" />
 </p>
+
 
 ---
 <p align="center">
