@@ -6,11 +6,6 @@
 
 <h1 align="center">👾 mercylessghost</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/ZySUy1U.gif" width="500" alt="Cyber Glitch Skull" />
-</p>
-
-
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Initializing+Red+Team+Ops...;Bypassing+WAF...;Injecting+Payload...;Access+Granted+%F0%9F%94%92" />
