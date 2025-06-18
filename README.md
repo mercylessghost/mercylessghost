@@ -15,7 +15,7 @@
 ### 🧰 Ferramentas & Tecnologias que domino
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Hacker Terminal" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500" alt="Cyber Skull" />
 </p>
 
 ####  Pentest & Exploração
