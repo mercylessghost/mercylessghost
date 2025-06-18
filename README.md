@@ -7,17 +7,15 @@
 <h1 align="center">👾 mercylessghost</h1>
 
 <p align="center">
-  🧠 Hacker Ético • 🛡️ RedTeam • 🤖 Automação & IA para Segurança Ofensiva
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Hacker+Ético+•+🛡️+RedTeam+•+🤖+Automação+%26+IA+para+Segurança+Ofensiva" />
 </p>
 
 ---
-
-### 🧰 Ferramentas & Tecnologias que domino
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Initializing+Red+Team+Ops...;Bypassing+WAF...;Injecting+Payload...;Access+Granted+%F0%9F%94%92" />
 </p>
 
+### 🧰 Ferramentas & Tecnologias que domino
 
 ####  Pentest & Exploração
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux)
