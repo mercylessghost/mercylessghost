@@ -7,8 +7,9 @@
 <h1 align="center">👾 mercylessghost</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Hacker+Ético+•+🛡️+RedTeam+•+🤖+Automação+%26+IA+para+Segurança+Ofensiva" />
+  <img src="https://media.giphy.com/media/xUOxf48tA3s0P4q0VW/giphy.gif" width="500" alt="Dark Terminal" />
 </p>
+
 
 ---
 <p align="center">
