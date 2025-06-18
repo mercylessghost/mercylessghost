@@ -15,8 +15,9 @@
 ### 🧰 Ferramentas & Tecnologias que domino
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500" alt="Cyber Skull" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Initializing+Red+Team+Ops...;Bypassing+WAF...;Injecting+Payload...;Access+Granted+%F0%9F%94%92" />
 </p>
+
 
 ####  Pentest & Exploração
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux)
