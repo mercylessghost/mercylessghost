@@ -88,8 +88,11 @@
 
 ### 📊 Estatísticas GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=mercilessgh0st&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mercilessgh0st&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mercylessghost&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mercylessghost&theme=radical" />
+</p>
 
 ---
 
