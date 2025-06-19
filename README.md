@@ -155,12 +155,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mercylessghost&theme=radical" />
 </p>
 
+<!-- Sua imagem personalizada (verifique nome exato, sensível a maiúsculas/minúsculas) -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/mercyl‌essghost.png" alt="MercylessGhost" width="200" />
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/mercylessghost.png" alt="Seu selo de imagem" />
-
+<!-- Iframe oficial do badge -->
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1987204" style="border:none;"></iframe>
 
----
 
 > 💬 *"Code é arma, inteligência é munição. Pentest bem feito é guerra vencida sem alarde."*
 
